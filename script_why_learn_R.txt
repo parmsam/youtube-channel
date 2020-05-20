@@ -1,0 +1,31 @@
+Why learn R?
+
+With so many programming languages available to learn, why should you learn R?
+This question depends on your field and your professional network.
+ -Do you have any friends or colleagues that are using R? What is their experience?
+ -Have they recommended that you learn R? If so why?
+These are more questions you can ask yourself before starting a journey to learn this new programming language.
+One primary question that people might ask themselves is "What are the benefits?
+Generally, there are several advantages to learning R.
+1) Growing popularity
+	- still a hot new thing for alot of folks especially in the field data science. You can see this in data from indeed, kaggle, or stack overflow.
+		- second most popular programming language for DS or ML tasks behind Python
+	- more people coding in the language has meant more needs identification and more package development to solve needs in R
+	- more package development resulting in lower barrier to entry as the many tools are freely available for people to use
+2) Open source
+  - Like Python and other programming languages
+	- Unlike SAS and other products data analytics products
+3) Large and helpful user community
+	- Evident from Stack Overflow posts on R
+  - Also evident from the broad content that R studio has produced and user community that they;ve developed
+    - If you haven't heard of R studio I encourage you to visit their website and check them out
+4) Superb package availability
+	- Cran package repository
+		- pretty secure (reference link)
+		- packages on so many different topics (not just what you would expect). It's very comprehensive.
+		- it showcases the multitude of uses that R has
+			- from the expected uses like data analysis, graph design, and report development to org charts, app development, a meme package in R
+6) Lots of resources for learning R (very diverse)
+	- This follows from point 2
+	- I encourage you to start now and install it on your computer along with R studio
+	- Follow up video on the learning resources
